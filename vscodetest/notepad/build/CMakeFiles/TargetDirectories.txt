@@ -1,0 +1,4 @@
+D:/vscodetest/notepad/build/CMakeFiles/NotepadApp.dir
+D:/vscodetest/notepad/build/CMakeFiles/edit_cache.dir
+D:/vscodetest/notepad/build/CMakeFiles/rebuild_cache.dir
+D:/vscodetest/notepad/build/CMakeFiles/NotepadApp_autogen.dir
